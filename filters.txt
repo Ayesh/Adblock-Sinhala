@@ -9,3 +9,7 @@
 !
 ! ---------- Adblock Sinhala filters ----------!
 !
+topjobs.lk##.banner-panel
+yamu.lk##.ad-tracked
+hirunews.lk##.footer_st
+baiscopelk.com##.e3lan
