@@ -16,3 +16,4 @@ baiscopelk.com##.e3lan
 gossiplankanews.com##.rimage,#HTML7,#HTML5,#HTML4,#HTML10,#HTML2,#HTML6,#HTML3
 readme.lk###it-ad_container iframe
 lankacnews.com##.ads-block-top-container
+derana.lk##.adsBanner
