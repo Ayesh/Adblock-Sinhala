@@ -20,3 +20,4 @@ derana.lk##.adsBanner
 adaderana.lk##.adsBanner,.wr-header-add
 pulse.lk##.wr-home-top-adv
 lankadeepa.lk##.adsBanner
+music.lk##.advert-area
