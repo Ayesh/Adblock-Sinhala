@@ -21,3 +21,4 @@ adaderana.lk##.adsBanner,.wr-header-add
 pulse.lk##.wr-home-top-adv
 lankadeepa.lk##.adsBanner
 music.lk##.advert-area
+col3neg.com.lk##.bnx-section-home-top
